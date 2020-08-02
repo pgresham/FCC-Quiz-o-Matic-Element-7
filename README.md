@@ -10,19 +10,19 @@ Running quiz.py loads the questions and answers from their corresponding text fi
 Modifying the Questions and Answers and the Format it Wants to See:
 The included text documents E7AnswerKey and E7QuestionBank are made to be easily human readable and editable. The Questions should follow the following format:
 
-[Question Number] Question:
-A. Answer 1
-B. Answer 2
-C. Answer 3
-D. Answer 4
-[newline]
-[Question Number] Question:
-A. Answer 1
-B. Answer 2
-C. Answer 3
-D. Answer 4
-[newline] 
-...And so on. 
+<p>[Question Number] Question:<br/>
+A. Answer 1<br/>
+B. Answer 2<br/>
+C. Answer 3<br/>
+D. Answer 4<br/>
+[newline]<br/>
+[Question Number] Question:<br/>
+A. Answer 1<br/>
+B. Answer 2<br/>
+C. Answer 3<br/>
+D. Answer 4<br/>
+[newline] <br/>
+...And so on. <br/></p>
 
 After the last question and before the end of file, there need to be two blank  lines to correctly load the last question. 
 
