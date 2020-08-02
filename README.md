@@ -1,5 +1,4 @@
 # FCC-Quiz-o-Matic-Element-7
-<h1>FCC Quiz-o-Matic: Element 7</h1>
 
 <h2>Description:</h2>
 <p>This is a simple command line quiz program to review the FCC Element 7 GMDSS question bank. These questions are published by the FCC and are the same ones that appear on the exam.</p>
